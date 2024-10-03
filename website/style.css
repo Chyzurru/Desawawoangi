@@ -24,7 +24,7 @@
     height: 100%;
 }
 .landing-page {
-    background-image: url('../assets/wawoangi4.png'); /* Ganti URL dengan gambar desa */
+    background-image: url('../assets/wawoangi4.jpg'); /* Ganti URL dengan gambar desa */
     height: 100vh;
     background-size: cover;
     background-position: center;
